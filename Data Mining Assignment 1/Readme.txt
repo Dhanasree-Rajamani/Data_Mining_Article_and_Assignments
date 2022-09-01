@@ -13,7 +13,7 @@ Also developing a webpage for a restaurant using HTML and Flask Server. The webp
 For question 2 - Assignment_q2 : Contains the google colab python notebook to explore various python concepts. 
 Explored various concepts started from print statements to arithmetic operations, if statements, for and while loops, data structures such as lists, tuples and dictionaries, functions, Classes and objects. 
 
-For question 3 - Assignment_q3 : Contains the document which has the Youtube link to the video - exploring jadbio and creating an ML Project to predict Iris species. The document also has steps and screenshots of the second ML project - predicting cardio vascular diseases based on various patient information. 
+For question 3 - Assignment_q3 : Contains the document which has the Youtube link to the video - exploring jadbio and creating an ML Project to predict Iris species. The document also has steps and screenshots of the second ML project - predicting cardio vascular diseases based on various patient information. The datasets for Iris plant species prediction and Patient medical records were obtained from Kaggle as CSV files.
 Youtube link creating AutoML project using Jadbio :
               
               https://www.youtube.com/watch?v=9cKuP-P0EG0

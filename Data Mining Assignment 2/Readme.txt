@@ -11,7 +11,8 @@ https://colab.research.google.com/drive/1fCIDO5gwkxhrjVU82AVOEgXx-qGAESOn?usp=sh
 
 For Regression - we have the dataset about various mobile phones, their features and prices and the model predicts the prices for the test data. Gradio app is used here, youtube link: https://youtu.be/a4s41fQqHMw
 To view output, please visit the notebook :
-https://colab.research.google.com/drive/19VJWnk95aNdkb8uobmvBPTzr3Mb6OL9G?usp=sharing
+https://colab.research.google.com/drive/1-IPsns4jkUzajuj3SS48j7BHveG7SKvr#scrollTo=QPruISv17GRW (Here, I've ignored less important features like brand, model, name while training the model, to see if model predicts better)
+https://colab.research.google.com/drive/19VJWnk95aNdkb8uobmvBPTzr3Mb6OL9G?usp=sharing (Here, I've included all features, to see how well it identifies and considers the key features)
 
 For clustering - we have various passengers of an airline - it clusters based on their purpose and class of flying, their satisfaction level etc.
 To view output, please visit the notebook :

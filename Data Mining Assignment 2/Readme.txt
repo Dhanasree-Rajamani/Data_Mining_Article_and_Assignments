@@ -4,6 +4,7 @@ The datasets used are in the 'DataMining_Datasets' Folder.
 
 For Binary Classification - the dataset used is a citrus fruits dataset - which classifies into Grapefruit or Orange based on its Features. 
 To view output, please visit the notebook : https://colab.research.google.com/drive/1LwQbtIb5WE3ngUoOYCcZswYpDON5zRLk?usp=sharing
+Tried with a bigger dataset(classify presence or absence of cardio vascular disease): https://colab.research.google.com/drive/150pUFLlOOfnc2N9AjFAxZAX2UP3ulcam?usp=sharing
 
 For Multi Classification - the dataset used contains various features such as age, gender, height, weight etc. and classifies people into 4 classes based on their fitness level(based on body performance) . Gradio app is used here. Youtube link: https://youtu.be/1INguk3Pqn4
 To view output, please visit the notebook :

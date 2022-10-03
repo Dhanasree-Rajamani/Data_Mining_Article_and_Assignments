@@ -1,0 +1,15 @@
+123456,Rachel,Chair, 01-01-2021
+123457,Emily,Monitor, 09-10-2021
+123458,Monica,Mouse, 08-08-2021
+123459,Ross,Monitor, 04-06-2021
+123460,Claire,Headphones, 05-07-2021
+123461,Phil,Monitor, 03-11-2021
+123462,Haley,Headphones, 11-05-2021
+123463,Alex,Chair, 12-01-2021
+123464,Luke,Headphones, 01-02-2021
+123465,Lily,Keyboard, 09-01-2022
+123458,Monica,Mouse, 08-08-2022
+123459,Ross,Monitor, 04-06-2022
+123460,Claire,Keyboard, 05-07-2022
+123461,Phil,Monitor, 03-11-2022
+123462,Haley,Headphones, 11-05-2022

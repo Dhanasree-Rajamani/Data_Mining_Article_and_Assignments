@@ -5,7 +5,7 @@ The datasets used are within 'datasets'.
 Question 1 - EDA : This folder contains the google colab notebook for the Exploratory Data Analysis I have performed on a Zomato dataset.
 The dataset consists of numerous restaurants in various countries, along with its address, location, cuisines offered, ratings, average cost for two, has online delivery etc. The detailed explanation of the dataset is available on the colab notebook. In EDA we have visualized the  countries with most restaurants on Zomato, their ratings, how ratings and cost are related, what are the most common cuisines on Zomato and so on.
 
-For EDA I have used various visualization tool such as d3.js, plotly, matplotlib and seaborn - for different kind of visuals such as interactive visuals, maps, word cloud, bar, pie and donut charts.  
+For EDA I have used various visualization tool such as d3.js(this visual can be viewed only while running the notebook), plotly, matplotlib and seaborn - for different kind of visuals such as interactive visuals, maps, word cloud, bar, pie and donut charts.  
 
 To view the visuals properly, please visit : https://colab.research.google.com/drive/1Qa22R___XVRKtazD2FBwD2ox2PKzgRAh?usp=sharing
 (The visuals are not coming up properly on GitHub)

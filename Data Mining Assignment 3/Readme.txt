@@ -3,7 +3,7 @@ This folder contains all files related to Assignment 3 - Questions 1 to 3
 The datasets used are within 'datasets'.
 
 Question 1 - EDA : This folder contains the google colab notebook for the Exploratory Data Analysis I have performed on a Zomato dataset.
-The dataset consists of numerous restaurants in various countries, along with its address, location, cuisines offered, ratings, average cost for two, has online delivery etc. The detailed explanation of the dataset is available on the colab notebook. In EDA we have visualized the  countries with most restaurants on Zomato, their ratings, how ratings and cost are related, what are the most common cuisines on Zomato and so on.
+The dataset consists of numerous restaurants in various countries, along with its address, location, cuisines offered, ratings, average cost for two, has online delivery etc. There are two datasets here, which are joined on the basis of country code. The detailed explanation of the dataset is available on the colab notebook. In EDA we have visualized the  countries with most restaurants on Zomato, their ratings, how ratings and cost are related, what are the most common cuisines on Zomato and so on.
 
 For EDA I have used various visualization tool such as d3.js(this visual can be viewed only while running the notebook), plotly, matplotlib and seaborn - for different kind of visuals such as interactive visuals, maps, word cloud, bar, pie and donut charts.  
 

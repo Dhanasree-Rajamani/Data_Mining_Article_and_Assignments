@@ -13,7 +13,7 @@ To view the visuals properly, please visit : https://colab.research.google.com/d
 Question 2 - Auto EDA : This folder contains the google colab notebooks for my Auto EDA experiments. I have used Pandas profiling and sweetviz for Auto EDA. I have used a dataset which has patient records such as their age, gender, smoking, alcohol, systolic and diastolic pressure and presence and absence of cardiovascular disease. The detailed explanation of the dataset is avalilable in the colab notebook, along with removing outliers and anomalies, some transformations in the dataset(converting age from days to years for readability), and then using Pandas profiling for EDA. 
 To try another auto EDA tool, I tried the sweetviz tool, with titanic data set, which contains information of various titanic passengers such as their age, gender etc. and if they survived the titanic crash.
 
-To view the code and output html file, please visit : 
+To view the code and the EDA report with visualizations, please visit : 
 pandas profiling colab : https://colab.research.google.com/drive/1xJcbKv2gq_9Kp_sgddtq9XGpNPR_hOxv?usp=sharing
 sweetviz colab : https://colab.research.google.com/drive/1Exu81par76e-uiIBQHS8REYw0k-MNb8i?usp=sharing
 

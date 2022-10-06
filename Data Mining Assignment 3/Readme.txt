@@ -14,7 +14,7 @@ Question 2 - Auto EDA : This folder contains the google colab notebooks for my A
 To try another auto EDA tool, I tried the sweetviz tool, with titanic data set, which contains information of various titanic passengers such as their age, gender etc. and if they survived the titanic crash.
 
 To view the code and the EDA report with visualizations, please visit : 
-pandas profiling colab : https://colab.research.google.com/drive/1xJcbKv2gq_9Kp_sgddtq9XGpNPR_hOxv?usp=sharing (This is the mail Auto EDA notebook, with detailed explanation, cleansing and transformations of dataset)
+pandas profiling colab : https://colab.research.google.com/drive/1xJcbKv2gq_9Kp_sgddtq9XGpNPR_hOxv?usp=sharing (This is the main Auto EDA notebook, with detailed explanation, cleansing and transformations of dataset)
 sweetviz colab : https://colab.research.google.com/drive/1Exu81par76e-uiIBQHS8REYw0k-MNb8i?usp=sharing (This is just a basic experiment to try another Auto EDA Tool)
 
 Question 3 - Apache beam : This folder contains the google colab notebook used to work on Apache beam. The dataset consists of shopping data - customers who shop for various IT products such as monitors, keyboards and so on. I have used core transform, pardo transform and composite transform to categorize these customers based on products purchased, and determine the returning and non-returning customers. This information can be further used for marketing and sales promotions. 

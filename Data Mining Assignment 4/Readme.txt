@@ -7,7 +7,7 @@ II) Feature Subset Selection
 Google colab notebook URL for I and II(Normalization, Data Portability and Feature Subset selection):
 https://colab.research.google.com/drive/1uH046NxiK0DZRnBWlyT1mOYgfjFAWaO8#scrollTo=dS51kh3A0MBp&uniqifier=2
 
-I) For normalization, The dataset used is a cardio dataset, in which target variable is presence or absence of cardiovascular disease in a patient based on various attributes such as age, weight, smoking, alcohol, cholesterol etc.(more features explained in colab). The techniques I've tried for normalization are Scaling, Z-score and Feature Clipping.
+I) For normalization, The dataset used is a cardio dataset, in which target variable is presence or absence of cardiovascular disease in a patient based on various attributes such as age, weight, smoking, alcohol, cholesterol etc.(more features explained in colab). The techniques I've tried for normalization are Scaling, Z-score and Feature Clipping. 
 
 I) For data portability I have tried various techniques such as Label encoding, One-hot encoding, Quantile bucketing - equi width, equi depth.
 Here I have used multiple datasets such as 

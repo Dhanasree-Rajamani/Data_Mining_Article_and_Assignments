@@ -7,15 +7,15 @@ II) Feature Subset Selection
 Google colab notebook URL for I and II(Normalization, Data Portability and Feature Subset selection):
 https://colab.research.google.com/drive/1uH046NxiK0DZRnBWlyT1mOYgfjFAWaO8#scrollTo=dS51kh3A0MBp&uniqifier=2
 
-For normalization, The dataset used is a cardio dataset, in which target variable is presence or absence of cardiovascular disease in a patient based on various attributes such as age, weight, smoking, alcohol, cholesterol etc.(more features explained in colab). The techniques I've tried for normalization are Scaling, Z-score and Feature Clipping.
+I) For normalization, The dataset used is a cardio dataset, in which target variable is presence or absence of cardiovascular disease in a patient based on various attributes such as age, weight, smoking, alcohol, cholesterol etc.(more features explained in colab). The techniques I've tried for normalization are Scaling, Z-score and Feature Clipping.
 
-For data portability I have tried various techniques such as Label encoding, One-hot encoding, Quantile bucketing - equi width, equi depth.
+I) For data portability I have tried various techniques such as Label encoding, One-hot encoding, Quantile bucketing - equi width, equi depth.
 Here I have used multiple datasets such as 
  - Diabetes dataset - (for women), which contains information such as number of pregnancies, glucose, BMI, Insulin, blood pressure, skin thickness, age, diabetes predigree function and the target variable is whether or not the person has diabetes.
  - Car price prediction dataset - which contains various information such as car name, fuel type, door number, drive wheel, engine size, city mpg, etc.(Described more within the colab) and the price of the car is the target variable.
  - Cardio dataset mentioned above
 
-For feature subset selection I have used various techniques such as Feature selection by removing constant values(Filter method), Forward selection and Backward elimination (Wrapper method) 
+II) For feature subset selection I have used various techniques such as Feature selection by removing constant values(Filter method), Forward selection and Backward elimination (Wrapper method) 
 The datasets used here are:
  - Starbucks customer dataset - which has various information about the customer such as - gender, age, status, visit no, etc.  and the target label is whether the customer is loyal or not loyal.
  - Diabetes dataset mentioned above

@@ -74,6 +74,9 @@ Question 3:
 This link contains an end-to-end ML example. I have tried various ML models such as Random Forest, Decision tree and Logistic regression and the best model has been evaluated. The dataset with which the ML model is used is a diabetes dataset(for women), which contains information such as number of pregnancies, glucose, BMI, Insulin, blood pressure, skin thickness, age, diabetes predigree function and the target variable is whether or not the person has diabetes. I have also explored the data to understand the data, check for nulls and missing values. And data preparation has been done to fit the data in the format required for the logistic regression algorithm.
 
 Databricks Notebook URL:
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2469856715563369/4099372178060647/7971224237730433/latest.html
+
 https://community.cloud.databricks.com/?o=2469856715563369#notebook/4099372178060647/command/1947713007899086
 
 I have also added a copy of all these files in the github folder here.
